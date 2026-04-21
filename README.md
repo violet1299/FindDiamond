@@ -1,0 +1,1 @@
+In the treasure hunt game, the player can move freely in the scene and complete the task of finding 3 gold coins by opening barrels and treasure chests. When the 3rd gold coin is collected, the player wins the game. A victory effect will play when the game is won.
